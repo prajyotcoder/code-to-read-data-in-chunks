@@ -6,3 +6,7 @@ until the entire dataset is collected. This ensures that the complete data is
 available for necessary actions later.
 
 Happy coding!
+
+(Please note that the connection string used here is based on my specific requirements.
+However, others referring to this code can use their own connection string or custom 
+data for testing purposes.)
